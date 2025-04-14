@@ -1,0 +1,39 @@
+body{
+    background-color: #121212;
+    color: aliceblue;
+}
+
+
+#navbar{
+    z-index: 5;
+    position: fixed;
+    width: 100%;
+}
+
+.titles{
+    justify-content: center;
+    display: flex;
+    margin-bottom: 2%;
+    color:darkseagreen ;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 57%;
+    margin-bottom: 5%;
+}
+.content{
+    margin-bottom: 25%;
+}
+
+.content ul li{
+    padding-bottom: 3%;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    margin-bottom: 0%;
+}
